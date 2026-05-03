@@ -1,2 +1,3 @@
 # linha-reta-admin
-Dashboard admin — Linha Reta Turismo
+Dashboard admin â Linha Reta Turismo
+
